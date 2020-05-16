@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           GitHub Network Graph Fullscreen
+// @name           GitHub Network Ninja
 // @version        2.0
 // @namespace      http://maliayas.com
 // @author         Ali Ayas <mali@maliayas.com>
