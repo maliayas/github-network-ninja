@@ -170,7 +170,7 @@ if ($canvasContainer.length) {
 
     $commitFilterButton = $(
         "<button class='commit-filter-button btn btn-sm btn-primary'>"
-            + "Search in commits"
+            + "List of commits"
         + "</button>").appendTo("body");
 
     $commitFilterButton.click(showCommitFilterBox);
