@@ -14,6 +14,7 @@ Basically it provides:
 -   [Usage](#usage)
 -   [Related URLs](#related-urls)
 -   [Donate](#donate)
+-   [License](#license)
 
 ## Why
 
@@ -132,6 +133,10 @@ If you want to support further creative work, you may consider a donation.
 
 -   BTC:[bc1qh2uq38mnvduzc5de9ak2f6ylxx43hs0xurp0eu](http://maliayas.com/business/donation/crypto-qr.php?coin=bitcoin&address=bc1qh2uq38mnvduzc5de9ak2f6ylxx43hs0xurp0eu&amount=0.0005)
 -   ETH:[0x657b5B25360BA5266e3c5D5540dB4b441e97bff6](http://maliayas.com/business/donation/crypto-qr.php?coin=ethereum&address=0x657b5B25360BA5266e3c5D5540dB4b441e97bff6&amount=0.025)
+
+## License
+
+GitHub Network Ninja is released under the [MIT License](LICENSE).
 
 [userscript]: https://en.wikipedia.org/wiki/Userscript
 [github.com]: https://github.com
