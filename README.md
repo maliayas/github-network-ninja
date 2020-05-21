@@ -47,7 +47,7 @@ your browser. Famous options are: Greasemonkey, Tampermonkey, Violentmonkey.
 
 After installing that addon, visit the below URL:
 
-https://github.com/maliayas/github-network-ninja/blob/master/main.user.js
+https://github.com/maliayas/github-network-ninja/raw/master/main.user.js
 
 Some userscript managers automatically trigger installation when they see `.user.js`
 at the end of the URL. If that doesn't work, just create a new userscript in the
