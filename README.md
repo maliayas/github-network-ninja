@@ -12,6 +12,7 @@ Basically it provides:
 -   [Why](#why)
 -   [Installation](#installation)
 -   [Usage](#usage)
+-   [Source Code](#source-code)
 -   [Related URLs](#related-urls)
 -   [Donate](#donate)
 -   [License](#license)
@@ -122,6 +123,10 @@ with this, the userscript will open commits you click in new tabs.
 
 In order to dismiss the commit list you can either hit <kbd>ESC</kbd> or click
 outside of the popup.
+
+## Source Code
+
+Source code is hosted here: https://github.com/maliayas/github-network-ninja
 
 ## Related URLs
 
