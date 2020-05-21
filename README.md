@@ -46,7 +46,8 @@ And I have some good news!
 This is a userscript, so in order to run it, you need a userscript manager addon for
 your browser. Famous options are: Greasemonkey, Tampermonkey, Violentmonkey.
 
-After installing that addon, visit the below URL:
+After installing that addon, visit the below URL (It's also hosted on
+[Greasy Fork](https://greasyfork.org/en/scripts/403867-github-network-ninja)):
 
 https://github.com/maliayas/github-network-ninja/raw/master/main.user.js
 
