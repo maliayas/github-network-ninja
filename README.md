@@ -28,8 +28,8 @@ others may not do so due to various reasons. This is why network graph is an
 invaluable source with full of hidden gems. It's really a mistery why GitHub (again;
 git; hub) doesn't promote these network graphs in everywhere possible.
 
+[Click on the image for full size.]
 [![github-network.png](images/thumbnail-github-network.png)](images/github-network.png)
-<center>[Click on the image for full size.]</center>
 
 However, there are some accessibility problems with network graphs. First, they are
 rendered in a rather small box that makes it a pain to use. On top of that, if you
@@ -77,14 +77,14 @@ to make use of it. The userscript runs only on URLs in this pattern:
 This userscript provides you a full-viewport network graph so you can see the big
 picture more easily. It's automatic, you don't need to do anything.
 
+[Click on the image for full size.]
 [![github-network-fullscreen.png](images/thumbnail-github-network-fullscreen.png)](images/github-network-fullscreen.png)
-<center>[Click on the image for full size.]</center>
 
 And a killer feature. Or a dream feature should I say? It gives you a list of all
 the commits with a search box on top of it!
 
+[Click on the image for full size.]
 [![github-network-search.png](images/thumbnail-github-network-search.png)](images/github-network-search.png)
-<center>[Click on the image for full size.]</center>
 
 Click on the "List of commits" button on the top-tight corner to open the commit
 list. You'll see a list of unique commits from the origin repo and its forks.
